@@ -1,2 +1,3 @@
 # Book-Shop-System
-Book Shop Systme built in C++ which helps filing books and seeing what's available
+The new system uses the concept of binary search method to make searching process faster and provide results within short interval of time. As each modules has been divided into class and functions, so the execution time of this system is optimized as compared to the previous system. To make data secure and maintain data integrity proper mechanism has been used to perform validation process at the client side before saving any data and information to a particular file. Users will be provided with friendly screen, whether they have to just few information’s regarding their query and all processing work will be done at the back side.
+
